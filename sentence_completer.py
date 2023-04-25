@@ -33,7 +33,3 @@ def main():
         if prompt:
             completed_sentence = generate_text(prompt)
             st.write(prompt + completed_sentence)
-
-# run app
-if __name__ == "__main__":
-    main()
