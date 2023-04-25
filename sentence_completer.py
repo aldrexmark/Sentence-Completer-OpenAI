@@ -3,7 +3,7 @@ import openai
 import streamlit as st
 
 # set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 # function to generate text
 def generate_text(prompt):
